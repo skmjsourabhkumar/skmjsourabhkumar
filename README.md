@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skmjsourabhkumar" alt="skmjsourabhkumar" /></a> </p>
 
-- 🔭 I’m currently working on **Course-app**
+- 🔭 I’m currently learning **Data Structure and Algorithm**
 
 - 🌱 I’m currently learning **react, javscript, mongodb ,node**
 
 - 👯 I’m looking to collaborate on **Online Quiz system**
-
-- 🤝 I’m looking for help with **Online Quiz system**
 
 - 💬 Ask me about **react,DSA,javascript,c++,c,python**
 
